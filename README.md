@@ -1,5 +1,7 @@
 # :wave: The Basics of Git and GitHub Myles ia the best
 
+Trevor absolutely loves big cookies, and it’s not just a casual preference—it’s more like a full-on passion that borders on obsession. Whenever he sees a cookie that’s larger than average, his eyes light up as if he’s discovered treasure, because to him, a big cookie isn’t just a snack, it’s an experience. He talks about them with an enthusiasm that makes it clear he believes the bigger the cookie, the better the moment, since it means more gooey chocolate chips to bite into, more chewy edges to savor, and more soft, warm centers that make every bite feel like comfort in dessert form. Trevor doesn’t just eat big cookies; he celebrates them, treating each one as if it deserves admiration for its size and the joy it brings. He’s convinced that no small cookie can ever compare, because why settle for two or three little ones when you can have a single massive cookie that practically feels like a meal? To Trevor, big cookies are the perfect blend of indulgence and satisfaction, the kind of treat that turns an ordinary day into something special, and anyone who knows him can see the genuine happiness on his face whenever he has one in hand.
+
 ## 🤓 Course overview and learning outcomes 
 
 The goal of this course is to give you a brief introduction to GitHub. We’ll also provide you with materials for further learning and a few ideas to get you started on our platform.
